@@ -36,7 +36,7 @@ aux_links_new_tab: true
 
 # technical site stuff
 url: "https://radball-migi.github.io/HF-ITCNE24-SemArbeit2-BPMN-Personalprozess/"
-logo: "/ressources/bilder/dennis_logo.png"
+# logo: "/ressources/bilder/dennis_logo.png"
 # favicon_ico: "/ressources/bilder/dennis.jpg"
 # remote_theme: just-the-docs/just-the-docs
 plugins:
