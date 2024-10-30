@@ -22,7 +22,7 @@
 title: HF-ITCNE24-SemArbeit2-BPMN-Personalprozess
 email: miguel.schneider@edu.tbz.ch
 description: >- # this means to ignore newlines until another declaration
-  "Dies ist die 2. Semesterarbeit von Miguel Schneider"
+  "2. Semesterarbeit von Miguel Schneider"
 
 # personal stuff
 author: "Miguel Schneider"
@@ -36,8 +36,8 @@ aux_links_new_tab: true
 
 # technical site stuff
 url: "https://github.com/Radball-Migi/HF-ITCNE24-SemArbeit2-BPMN-Personalprozess/"
-#logo: "/ressources/bilder/dennis_logo.png"
-#favicon_ico: "/ressources/bilder/dennis.jpg"
+logo: "/ressources/images/migi_logo.png"
+favicon_ico: "/ressources/images/migi.jpg"
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
