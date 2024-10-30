@@ -22,7 +22,7 @@
 title: 2 Semesterarbeit Dennis Buathong
 email: dennis.buathong@edu.tbz.ch
 description: >- # this means to ignore newlines until another declaration
-  "Dies ist die 2. Semesterarbeit von Dennis Buathong"
+  "Dies ist die 2. Semesterarbeit von Miguel Schneider"
 
 # personal stuff
 author: "Dennis Buathong"
@@ -30,12 +30,12 @@ github_username:  "Bazzako"
 
 # external stuff
 aux_links:
-  Projektplanung: https://github.com/users/Bazzako/projects/3
+  Projektplanung: https://github.com/users/Radball-Migi/projects/3
 aux_links_new_tab: true
 
 
 # technical site stuff
-url: "https://bazzako.github.io/SemArb2-BPM/"
+url: "https://radball-migi.github.io/HF-ITCNE24-SemArbeit2-BPMN-Personalprozess/"
 logo: "/ressources/bilder/dennis_logo.png"
 favicon_ico: "/ressources/bilder/dennis.jpg"
 remote_theme: just-the-docs/just-the-docs
