@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 # site overview stuff
-title: 2 Semesterarbeit Dennis Buathong
-email: dennis.buathong@edu.tbz.ch
+title: Semesterarbeit 2 Miguel Schneider, HF-ITCNE24-SemArbeit2-BPMN-Personalprozess
+email: miguel.schneider@edu.tbz.ch
 description: >- # this means to ignore newlines until another declaration
   "Dies ist die 2. Semesterarbeit von Miguel Schneider"
 
 # personal stuff
-author: "Dennis Buathong"
-github_username:  "Bazzako"
+author: "Miguel Schneider"
+github_username:  "Radball-Migi"
 
 # external stuff
 aux_links:
@@ -36,9 +36,9 @@ aux_links_new_tab: true
 
 # technical site stuff
 url: "https://radball-migi.github.io/HF-ITCNE24-SemArbeit2-BPMN-Personalprozess/"
-logo: "/ressources/bilder/dennis_logo.png"
-favicon_ico: "/ressources/bilder/dennis.jpg"
-remote_theme: just-the-docs/just-the-docs
+# logo: "/ressources/bilder/dennis_logo.png"
+# favicon_ico: "/ressources/bilder/dennis.jpg"
+# remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
