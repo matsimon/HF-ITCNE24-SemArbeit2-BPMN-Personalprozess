@@ -7,13 +7,13 @@ permalink: /
 
 # Willkommen!
 
-Hier findest du die Dokumentation der 2. Semesterarbeit über BPMN von Miguel Schneider.
+Unter dieser Page findest du die Dokumentation von Miguel Schneider, über BPMN im 2. Semester des HF-Lehrgangs. 
 
 Diese Webseite wird von Github Pages gehostet.
 Sie wird durch meine Einträge im Gitrepo stetig aktualisiert und erneuert.
 
 Ich wünsche dir viel Spass beim Lesen!
 
-![Welcome]()
+![Welcome](../ressources/images/.png) 
 
-[Quelle]()
+[Quelle](./Quellverzeichnis/index.md#startseite)
