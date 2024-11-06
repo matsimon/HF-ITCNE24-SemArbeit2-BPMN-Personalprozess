@@ -46,6 +46,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 exclude:
+# Enter path with to exclude a file
   - ressources/notizen/Notizen_und_Ideen.md
   
 
