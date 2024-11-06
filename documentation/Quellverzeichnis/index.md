@@ -8,4 +8,6 @@ has_children: "false"
 # Bilder
 
 ## Startseite
-Bild mit KI generiert ([Microsoft Copilot](https://copilot.cloud.microsoft/)) 
+Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank">Microsoft Copilot</a>) 
+
+## Einleitung
