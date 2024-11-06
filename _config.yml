@@ -45,6 +45,10 @@ plugins:
 back_to_top: true
 back_to_top_text: "Back to top"
 
+exclude:
+  - Notizen_und_Ideen.md
+  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
