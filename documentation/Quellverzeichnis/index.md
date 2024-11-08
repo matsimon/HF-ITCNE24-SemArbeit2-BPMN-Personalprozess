@@ -17,6 +17,11 @@ Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank
 
 ### Einleitung
 
+#### Ausgangslage
+Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank">Microsoft Copilot</a>)
+#### Ziele
+<a href="https://www.flaticon.com/free-icon/data-source_5865926?term=source&related_id=5865926" target="_blank">Flaticon</a> 
+
 
 ### Quellverzeichnis-Logo
 <a href="https://www.flaticon.com/free-icon/data-source_5865926?term=source&related_id=5865926" target="_blank">Flaticon</a> 
