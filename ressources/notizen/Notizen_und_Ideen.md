@@ -1,2 +1,2 @@
 - Nebst SharePoint auch Teams Telefonie im Kopf behalten, automatisieren
-- 
+- **BPMN**, Nicht einzelne Tasks machen und dann verbinden, einen Subtask erstellen, um die Tasks aufzulisten und MA allgemein belassen. Notebook bereitstellen und Logins erstellen können Parallel laufen. 
