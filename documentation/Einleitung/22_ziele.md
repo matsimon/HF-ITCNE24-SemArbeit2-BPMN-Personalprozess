@@ -15,7 +15,8 @@ Diese Ziele sind auch bereits im [Einreichungsformular](../../ressources/docs/IT
 4. Dokumentation über Github oder Github Pages erstellen. 
 5. Benutzererstellung und Anpassungen auf Systemen (SharePoint, EntraID) mit Microsoft Graph und PowerShell lösen.
 
-![Ziele](../../ressources/images/)
+![Ziele](../../ressources/images/goal.png)
+
 
 [Quelle](./Quellverzeichnis/index.md#Ziele)
 

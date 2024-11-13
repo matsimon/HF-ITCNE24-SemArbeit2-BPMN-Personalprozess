@@ -14,14 +14,14 @@ Das Kanban-System ermöglicht es durch seine Struktur zudem, konsistente Arbeits
 Kanban kann auch sehr gut für kleine Projekte, an welchen nur eine Person arbeitet, verwendet werden.
 
 ![Kanban](../../ressources/images/kanban.png)
-
+[Quelle](./Quellverzeichnis/index.md#Kanban)
 ## Scrum
 **Scrum** ist ein Framework für eine bestimmte Art des Projektmanagements. Es zeichnet sich durch schlanke Prozesse, schrittweise Entwicklung und regelmäßige Feedbackschleifen aus. Ursprünglich wurde es vor allem in der Softwareentwicklung eingesetzt, mittlerweile findet es aber in vielen weiteren Branchen Anwendung.
 
 Scrum verfolgt einen inkrementellen und iterativen Ansatz. In aufeinanderfolgenden, eigenständigen Phasen, den sogenannten Sprints, werden verschiedene Versionen eines Produkts entwickelt. Diese Sprints werden kontinuierlich wiederholt, bis ein zufriedenstellendes und vollständiges Produkt erreicht ist.
 
 ![Scrum](../../ressources/images/scrum.png)
-
+[Quelle](./Quellverzeichnis/index.md#Scrum)
 ## Kanban und Scrum in dieser Semesterarbeit
 
 In meiner Semesterarbeit werde ich mit Kanban und Scrum arbeiten. 
@@ -32,5 +32,7 @@ Zusätzlich verwende ich die Sprints, welche in Scrum integriert sind. Da ich je
 Dies ist der Link zu meinem Projektmanagement:
 <a href="https://github.com/users/Radball-Migi/projects/3/views/4" target="_blank">Roadmap · HF ITCNE24 - 2 Semarbeit BPMN</a>
 
-## Six Sigma
+![Scrum and Kanban](../../ressources/images/kanban_and_scrum.png)
+[Quelle](./Quellverzeichnis/index.md#Kanban und Scrum)
 
+## Six Sigma

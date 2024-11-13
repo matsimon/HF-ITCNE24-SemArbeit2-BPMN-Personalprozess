@@ -21,15 +21,12 @@ Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank
 Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank">Microsoft Copilot</a>)
 #### Ziele
 <a href="https://www.flaticon.com/free-icon/goals_10605945?term=goal&related_id=10605945" target="_blank">Flaticon</a> 
-
-
-
-Kanban: [Kanban – Prozesse visualisieren und verbessern](https://ifm-business.de/aktuelles/business-news/kanban-prozesse-visualisieren-und-verbessern.html)
-
-Scrum: [Scrum – das agile Framework in der Bildung - vlbs.nrw](https://vlbs.nrw/event/scrum-agiles-lernen/) 
-
-Scrum and Kanban: [Difference between Kanban and Scrum | Unichrone](https://unichrone.com/blog/agile/kanban-vs-scrum/)
-
+#### Kanban
+<a href="https://ifm-business.de/aktuelles/business-news/kanban-prozesse-visualisieren-und-verbessern.html" target="_blank">ifm-business.de</a> 
+#### Scrum
+<a href="https://vlbs.nrw/event/scrum-agiles-lernen/" target="_blank">vlbs.nrw</a> 
+#### Kanban und Scrum 
+<a href="https://unichrone.com/blog/agile/kanban-vs-scrum/" target="_blank">Unichrone.com</a>
 
 
 
