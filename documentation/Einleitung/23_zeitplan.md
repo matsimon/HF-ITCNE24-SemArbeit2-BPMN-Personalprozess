@@ -21,6 +21,7 @@ Dies ist der grobe Zeitplan, welchen ich aus dem Einreichungsformular entnommen 
 | 07.02.25   | Notenvorschlag                                                 | Projekt-Expert/in     | Lehrgangsleitung        |
 | 14.02.25   | Mitteilung der Noten mit individuellem Feedback zur Einsicht hochladen | Projekt-Expert/in | Studierende             |
 | 28.02.25   | Mitteilung der Noten                                           | Lehrgangsleitung/Sekretariat | Studierende       |
+
 Den genaueren Zeitplan habe ich im Projektmanagement in Github erstellt. 
 Dies ist ein Kanban-Board, auf dem ich die Einzelnen Tasks und verschiedene Buckets habe. 
 Mit diesem Board, kann ich auch eine Zeitplan-Achse abbilden, wo ich die Dauer eines Tasks definieren kann. 
