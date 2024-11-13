@@ -26,5 +26,5 @@ Den genaueren Zeitplan habe ich im Projektmanagement in Github erstellt.
 Dies ist ein Kanban-Board, auf dem ich die Einzelnen Tasks und verschiedene Buckets habe. 
 Mit diesem Board, kann ich auch eine Zeitplan-Achse abbilden, wo ich die Dauer eines Tasks definieren kann. 
 
-Den Zeitplan in Github Project, kannst du unter diesem Link finden: [Github Project](https://github.com/users/Radball-Migi/projects/3) 
+Den Zeitplan in Github Project, kannst du unter diesem Link finden: <a href="https://github.com/users/Radball-Migi/projects/3" target="_blank">Github Project</a>
 
