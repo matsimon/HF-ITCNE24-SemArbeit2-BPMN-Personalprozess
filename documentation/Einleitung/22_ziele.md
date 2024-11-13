@@ -18,6 +18,6 @@ Diese Ziele sind auch bereits im [Einreichungsformular](../../ressources/docs/IT
 ![Ziele](../../ressources/images/goal.png)
 
 
-[Quelle](../Quellverzeichnis/index.md#Ziele)
+[Quelle](../Quellverzeichnis/index.md#ziele)
 
 
