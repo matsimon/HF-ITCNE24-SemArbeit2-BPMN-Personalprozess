@@ -16,4 +16,18 @@ Kanban kann auch sehr gut für kleine Projekte, an welchen nur eine Person arbei
 ![Kanban](../../ressources/images/kanban.png)
 
 ## Scrum
+**Scrum** ist ein Framework für eine bestimmte Art des Projektmanagements. Es zeichnet sich durch schlanke Prozesse, schrittweise Entwicklung und regelmäßige Feedbackschleifen aus. Ursprünglich wurde es vor allem in der Softwareentwicklung eingesetzt, mittlerweile findet es aber in vielen weiteren Branchen Anwendung.
 
+Scrum verfolgt einen inkrementellen und iterativen Ansatz. In aufeinanderfolgenden, eigenständigen Phasen, den sogenannten Sprints, werden verschiedene Versionen eines Produkts entwickelt. Diese Sprints werden kontinuierlich wiederholt, bis ein zufriedenstellendes und vollständiges Produkt erreicht ist.
+
+![Scrum](../../ressources/images/scrum.png)
+
+## Kanban und Scrum in dieser Semesterarbeit
+
+In meiner Semesterarbeit werde ich mit Kanban und Scrum arbeiten. 
+Weshalb gleich mit beiden Methoden?
+Kanban ist in Github bereits integriert, in welchen man Boards und Tasks selbst erstellen kann. Zusätzlich kann ich verschiedene Ansichten erstellen, wie beispielsweise eine Gant-Projektübersicht, etc. 
+Zusätzlich verwende ich die Sprints, welche in Scrum integriert sind. Da ich jedoch alleine bin, habe ich bei mir nur 3 Sprintgespräche eingeplant. Dies, weil die Daily Sprints wegfallen, da ich die Semesterarbeit als Einzelarbeit mache, somit bin ich Zeitgleich auch der Scrum-Master. 
+
+Dies ist der Link zu meinem Projektmanagement:
+[Roadmap · HF ITCNE24 - 2 Semarbeit BPMN](https://github.com/users/Radball-Migi/projects/3/views/4) 
