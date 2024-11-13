@@ -2,7 +2,7 @@
 layout: default
 title: 2.5 Projektmanagement-Methode
 parent: 2. Einleitung
-nav_order: 7
+nav_order: 6
 ---
 
 # Projektmanagement-Methode
@@ -30,4 +30,7 @@ Kanban ist in Github bereits integriert, in welchen man Boards und Tasks selbst 
 Zusätzlich verwende ich die Sprints, welche in Scrum integriert sind. Da ich jedoch alleine bin, habe ich bei mir nur 3 Sprintgespräche eingeplant. Dies, weil die Daily Sprints wegfallen, da ich die Semesterarbeit als Einzelarbeit mache, somit bin ich Zeitgleich auch der Scrum-Master. 
 
 Dies ist der Link zu meinem Projektmanagement:
-[Roadmap · HF ITCNE24 - 2 Semarbeit BPMN](https://github.com/users/Radball-Migi/projects/3/views/4) 
+<a href="https://github.com/users/Radball-Migi/projects/3/views/4" target="_blank">Roadmap · HF ITCNE24 - 2 Semarbeit BPMN</a>
+
+## Six Sigma
+
