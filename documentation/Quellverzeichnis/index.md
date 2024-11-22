@@ -29,8 +29,16 @@ Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank
 <a href="https://unichrone.com/blog/agile/kanban-vs-scrum/" target="_blank">Unichrone.com</a>
 #### Six Sigma
 <a href="https://www.flaticon.com/free-icon/methodology_13063040?term=six+sigma&page=1&position=36&origin=search&related_id=13063040" target="_blank">Flaticon</a> 
+
+### Hauptteil
+
+
+
+### Sprints
+
 #### Sprint Review
 <a href="https://online.visual-paradigm.com/de/illustrations/templates/agile-illustration/sprint-review/" target="_blank">https://online.visual-paradigm.com</a>
+
 
 ### Quellverzeichnis-Logo
 <a href="https://www.flaticon.com/free-icon/data-source_5865926?term=source&related_id=5865926" target="_blank">Flaticon</a> 
