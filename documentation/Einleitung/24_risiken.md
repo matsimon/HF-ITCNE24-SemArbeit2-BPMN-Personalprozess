@@ -10,7 +10,7 @@ Bei Projektarbeiten sind Risiken immer vorhanden. Diese Risiken können jedoch i
 
 **Während der Arbeit rechne ich mit folgenden Risiken :** 
 
-| Risiken                                        | Risiko | Wahrscheinlichkeit | Maßnahme                                                                                                                                                                                               |
+| Risiken                                        | Risiko | Wahrscheinlichkeit | Massnahme                                                                                                                                                                                              |
 | ---------------------------------------------- | ------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Fehler im BPMN von Camunda und Automatisierung | Mittel | Mittel             | Viele Kontrollen der genutzten BPMN-Symbole, Verwendung des BPMN-Fachbuches und ggf. Rückfrage mit Fachdozenten                                                                                        |
 | Zeitmanagement                                 | Gering | Gering             | Anderes Tool verwenden wie in Semesterarbeit 1 und mit Sprints & Meilensteinen die Zeit besser im Griff behalten                                                                                       |
