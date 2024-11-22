@@ -36,3 +36,5 @@ Dies ist der Link zu meinem Projektmanagement:
 [Quelle](../Quellverzeichnis/index.md#kanban-und-scrum)
 
 ## Six Sigma
+
+
