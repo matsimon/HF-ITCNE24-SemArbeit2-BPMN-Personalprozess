@@ -38,3 +38,8 @@ Dies ist der Link zu meinem Projektmanagement:
 ## Six Sigma
 
 
+
+
+![Six Sigma](../../ressources/images/six-sigma.png)
+
+[Quelle](../Quellverzeichnis/index.md#six-sigma)
