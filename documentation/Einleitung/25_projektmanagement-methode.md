@@ -37,8 +37,28 @@ Dies ist der Link zu meinem Projektmanagement:
 
 ## Six Sigma
 
+Six Sigma ist eine Methode zur Prozessverbesserung, die Unternehmen dabei unterstützt, ihre Geschäftsprozesse zu optimieren. Ziel ist es, einheitliche Abläufe einzuführen, um Abweichungen im Endprodukt zu minimieren und somit die Anzahl der Produktfehler zu reduzieren.
 
+Im Kern basiert Six Sigma auf der Annahme der DMAIC-Methode:
 
+**Define (Definieren)**
+In dieser Phase wird das Problem klar definiert. Es werden die Ziele des Projekts festgelegt, der Umfang bestimmt und die Kundenanforderungen identifiziert.
+
+**Measure (Messen)**
+Hier werden die aktuellen Prozesse gemessen, um eine Basislinie zu erstellen. Es werden Daten gesammelt, um den Ist-Zustand zu verstehen und die Leistung zu bewerten.
+   
+**Analyze (Analysieren)**
+In dieser Phase werden die gesammelten Daten analysiert, um die Ursachen von Problemen und Variationen zu identifizieren. Es wird untersucht, welche Faktoren die Prozessleistung beeinflussen.
+
+**Improve (Verbessern)**
+Basierend auf den Analyseergebnissen werden Lösungen entwickelt und implementiert, um die identifizierten Probleme zu beheben. Ziel ist es, die Prozessleistung zu verbessern und die Variationen zu reduzieren.
+
+**Control (Kontrollieren)**
+In der letzten Phase werden die Verbesserungen überwacht und kontrolliert, um sicherzustellen, dass die erzielten Verbesserungen nachhaltig sind. Es werden Kontrollmechanismen eingeführt, um die Prozessleistung langfristig zu sichern.
+
+Laut Six Sigma benötigen alle Prozesse Inputs und Outputs. 
+**Inputs** sind die Aktionen, die dein Team durchführt, während **Outputs** die Ergebnisse dieser Aktionen darstellen. 
+Grundsätzlich gilt: Je mehr Inputs (oder Aktionen) kontrolliert werden können, desto besser lassen sich auch die Outputs steuern.
 
 ![Six Sigma](../../ressources/images/six-sigma.png)
 
