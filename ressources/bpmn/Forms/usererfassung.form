@@ -1,0 +1,117 @@
+{
+  "components": [
+    {
+      "label": "Vorname",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0afnz6n",
+        "columns": 8
+      },
+      "id": "Field_17430i6",
+      "key": "firstname",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Nachname",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0afnz6n",
+        "columns": 8
+      },
+      "id": "Field_0buhmva",
+      "key": "surname",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Telefonnummer",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_06l7pg3",
+        "columns": 8
+      },
+      "id": "Field_0rq03aw",
+      "key": "mobilenr",
+      "description": "Mobilenummer"
+    },
+    {
+      "subtype": "date",
+      "dateLabel": "Date",
+      "label": "Date time",
+      "type": "datetime",
+      "layout": {
+        "row": "Row_06l7pg3",
+        "columns": null
+      },
+      "id": "Field_0beyew7",
+      "key": "entrydate",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "values": [
+        {
+          "label": "Applikation (Entwicklung)",
+          "value": "dev_application"
+        },
+        {
+          "label": "Applikation (M365)",
+          "value": "m365_application"
+        },
+        {
+          "label": "Sysemtechnik",
+          "value": "eng_sys"
+        },
+        {
+          "label": "Systemtechnik (Support)",
+          "value": "sup_sys"
+        },
+        {
+          "label": "Lehrling",
+          "value": "stud"
+        }
+      ],
+      "label": "Abteilung, Team",
+      "type": "select",
+      "layout": {
+        "row": "Row_1i01i3k",
+        "columns": 8
+      },
+      "id": "Field_1fl8340",
+      "key": "office_team"
+    },
+    {
+      "values": [
+        {
+          "label": "Applikation",
+          "value": "application"
+        },
+        {
+          "label": "Systemtechnik",
+          "value": "system"
+        }
+      ],
+      "label": "Abteilung Lernende",
+      "type": "select",
+      "layout": {
+        "row": "Row_1i01i3k",
+        "columns": null
+      },
+      "id": "Field_0df93tg",
+      "key": "office_stud"
+    }
+  ],
+  "type": "default",
+  "id": "form_usererfassung",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.26.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.21.0",
+  "schemaVersion": 16
+}
