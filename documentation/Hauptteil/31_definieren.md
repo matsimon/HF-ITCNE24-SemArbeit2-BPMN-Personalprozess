@@ -33,7 +33,10 @@ Für einen optimalen Prozessablauf, braucht es einige Ressourcen. Diese werden h
 
 ## Warum wird die Zielvorstellung aktuell nicht erreicht?
 Die ISE AG verwendet bis jetzt vor allem eine Checkliste, welche die Abläufe festhält.
-Bei der Benutzerverwaltung konnte bis jetzt auch nur die GL Benutzer erstellen, da sie nur die Berechtigungen dafür hatten. Dadurch, dass die Termine bei der GL nicht weniger werden und auch Sie vermehrt an Projekten etc. mitarbeiten, würde ein solcher Prozess ihnen Arbeit abnehmen. 
+Bei der Benutzerverwaltung konnte bis jetzt auch nur die GL Benutzer erstellen, da sie nur die Berechtigungen dafür hatten. Dadurch, dass die Termine bei der GL nicht weniger werden und auch sie vermehrt an Projekten etc. mitarbeiten, wird der Zielzustand noch nicht erreicht, weil die GL zwar die Zeit für die Benutzererstellung findet, jedoch dadurch andere Aufgaben zurückgestellt werden müssen. 
+
+Damit wir das Ziel erreichen können, ist es wichtig, dass ich den Prozess optimieren und aktualisieren kann, damit die Auslastung von der GL aufgeteilt werden kann. 
+Wichtig dabei ist, dass ich das Grundgerüst beibehalte, da der Prozess zur Zertifizierung ISO 9001 gehört. 
 
 
 

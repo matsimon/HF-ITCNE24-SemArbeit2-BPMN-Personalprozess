@@ -31,6 +31,11 @@ Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank
 <a href="https://www.flaticon.com/free-icon/methodology_13063040?term=six+sigma&page=1&position=36&origin=search&related_id=13063040" target="_blank">Flaticon</a> 
 
 ### Hauptteil
+Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank">Microsoft Copilot</a>) 
+#### Define Phase
+[Search results for Define - Flaticon](https://www.flaticon.com/free-icon/define_12642154?term=define&page=1&position=47&origin=search&related_id=12642154)
+#### Measure Phase
+[Search results for Measure process - Flaticon](https://www.flaticon.com/free-icon/lean_9464400?term=measure+process&related_id=9464400)
 
 
 
