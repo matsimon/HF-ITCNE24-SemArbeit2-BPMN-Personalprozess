@@ -48,6 +48,7 @@ back_to_top_text: "Back to top"
 exclude:
 # Enter path with to exclude a file
   - ressources/notizen/
+  - documentation/Hauptteil/Notizen_aufbau.md
   
 
 # Exclude from processing.
