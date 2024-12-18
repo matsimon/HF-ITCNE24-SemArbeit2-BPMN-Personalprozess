@@ -51,7 +51,8 @@
       "key": "entrydate",
       "validate": {
         "required": true
-      }
+      },
+      "disallowPassedDates": true
     },
     {
       "values": [
@@ -103,7 +104,51 @@
         "columns": null
       },
       "id": "Field_0df93tg",
-      "key": "office_stud"
+      "key": "office_stud",
+      "conditional": {
+        "hide": "=not(office_team = \"stud\")"
+      }
+    },
+    {
+      "values": [
+        {
+          "label": "Verwaltungsrat",
+          "value": "vr"
+        },
+        {
+          "label": "Gschäfftsleitung",
+          "value": "gl"
+        },
+        {
+          "label": "Mitarbeiter",
+          "value": "stud"
+        },
+        {
+          "label": "Lehrling",
+          "value": "ma"
+        }
+      ],
+      "label": "Rollen",
+      "type": "checklist",
+      "layout": {
+        "row": "Row_0bvqctu",
+        "columns": null
+      },
+      "id": "Field_1dwlpvq",
+      "key": "roles",
+      "description": "Wellche Rollen hat die Person? (Ist für den SharePoint relevant)"
+    },
+    {
+      "label": "Account Aktivieren",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_1l4ylkf",
+        "columns": null
+      },
+      "id": "Field_1isx3w3",
+      "key": "activate_field",
+      "description": "Soll der Account gleich aktiviert werden?",
+      "defaultValue": true
     }
   ],
   "type": "default",

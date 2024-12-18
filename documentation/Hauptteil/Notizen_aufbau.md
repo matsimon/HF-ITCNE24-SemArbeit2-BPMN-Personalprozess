@@ -140,3 +140,23 @@ camunda/camunda-bpm-platform      run-latest   83d68864ae30   2 months ago     3
 camunda/camunda-bpm-platform      <none>       a4238897449b   8 months ago     331MB
 
 ```
+
+
+
+
+## Registrierung der EntraID Application
+
+```Output
+PS C:\Users\miguel.schneider> register-PnPEntraIDApp -ApplicationName "PnP and MG Graph for Semarb2 misch" -Tenant iseschool2013.onmicrosoft.com -Interactive
+WARNING:
+ No permissions specified, using default permissions
+
+
+Checking if application 'PnP and MG Graph for Semarb2 misch' does not exist yet...Success. Application 'PnP and MG Graph for Semarb2 misch' can be registered.
+App PnP and MG Graph for Semarb2 misch with id 058839a7-a056-47ad-8bf9-f56f230c6207 created.
+
+Pfx file               : C:\Users\miguel.schneider\PnP and MG Graph for Semarb2 misch.pfx
+Cer file               : C:\Users\miguel.schneider\PnP and MG Graph for Semarb2 misch.cer
+AzureAppId/ClientId    : 058839a7-a056-47ad-8bf9-f56f230c6207
+
+```

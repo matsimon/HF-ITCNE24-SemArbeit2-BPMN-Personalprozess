@@ -2,15 +2,40 @@
 # Script to Create a User with the Variables of the camunda Form    #
 #*******************************************************************#
 
-#Variables
 
-#Vars for Connection
-$Tenant = "iseschool2013.onmicrosoft.com"
-$ClientID = ""
-$Thumbprint = ""
+#Functions
 
+function Get-CamundaVars {
 
-#functions
+    # Get Variables from Camunda Form
+    $processInstanceId = "deine_prozessinstanz_id"
+    $url = "http://localhost:8080/engine-rest/process-instance/$processInstanceId/variables" # Definiere die URL für den API-Aufruf
+    $response = Invoke-RestMethod -Uri $url -Method Get # Rufe die Variablenwerte über die Camunda REST API ab
+    $variables = $response | ConvertFrom-Json # Konvertiere die Antwort in ein PowerShell-Objekt
+
+    # Erstelle ein benutzerdefiniertes Objekt und füge die Variablen hinzu
+    $UserProps = New-Object PSObject
+    $UserProps | Add-Member -MemberType NoteProperty -Name "Name" -Value $variables.variable1.value
+    $UserProps | Add-Member -MemberType NoteProperty -Name "Surname" -Value $variables.variable2.value
+    $UserProps | Add-Member -MemberType NoteProperty -Name "DisplayName" -Value $variables.variable3.value
+    $UserProps | Add-Member -MemberType NoteProperty -Name "Department" -Value $variables.variable4.value
+    $UserProps | Add-Member -MemberType NoteProperty -Name "Office" -Value $variables.variable5.value
+    $UserProps | Add-Member -MemberType NoteProperty -Name "JobTitle" -Value $variables.variable6.value
+
+    
+    return $UserProps
+}
+
+function Connect-MSG {
+    param (
+        [string]$Tenant = "iseschool2013.onmicrosoft.com",
+        [string]$ClientID = "058839a7-a056-47ad-8bf9-f56f230c6207",
+        [string]$Thumbprint = "E5925A74E30F1C09CC38744486C8317CEEF88F87"
+    )
+
+    Connect-MgGraph -ClientId $ClientID -CertificateThumbprint $Thumbprint -TenantId $Tenant -NoWelcome
+
+}
 
 function Generate-Password {
     param (
@@ -57,7 +82,7 @@ function Generate-Password {
 function New-Password {
     param(
         [int]$length = 1,
-        $Debug = $true
+        $Debug = $false
     )
     
     # Passwort generieren
@@ -72,17 +97,81 @@ function New-Password {
         $false {  }
         Default { }
     }
+    return $password
 }
 
 function Check-UPN {
     param (
         [string]$Name = $null,
-        [string]$Surname = $null, 
-        [string]$DisplayName = $null
+        [string]$Surname = $null,
+        [string]$Domain = "iseschool2013.onmicrosoft.com"
     )
     
-    if ($Name,$Surname,$DisplayName = $null) {
-        return
+    if ($Name -eq $null -or $Surname -eq $null) {
+        $fehler = "fehler"
+        return $fehler
     }
 
+    $counter = 1
+    $upnFound = $false
+
+    do {
+        $UPN = "$Name.$Surname$counter@$domain"
+        
+        try {
+            Get-MgUser -UserId $UPN -ErrorAction Stop
+            $counter++
+        }
+        catch {
+            $upnFound = $true
+        }
+    } until ($upnFound)
+
+    return $UPN
 }
+
+function Create-NewUser {
+    param (
+        $UserProps = $null,
+        [string]$Name = $UserProps.Name,
+        [string]$Surname = $UserProps.Surname,
+        [string]$DisplayName = $UserProps.DisplayName,
+        [string]$Domain = "iseschool2013.onmicrosoft.com",
+        [string]$Department = $UserProps.Department, #Abteilung
+        [string]$Office = $UserProps.Office, #Bürostandort
+        [string]$JobTitle = $UserProps.JobTitle, #Position
+        [string]$UsageLocation = "Switzerland",
+        [bool]$AccountEnabled = $true
+    )
+    
+    $UPN = Check-UPN -Name $Name -Surname $Surname -Domain $Domain
+
+    $password = New-Password
+
+    $SecurePassword = ConvertTo-SecureString $password -AsPlainText -Force
+
+    New-MgUser `
+        -UserPrincipalName $UPN `
+        -GivenName $Name `
+        -Surname $Surname `
+        -DisplayName $DisplayName `
+        -Mail $UPN `
+        -Department $Department `
+        -OfficeLocation $Office `
+        -JobTitle $JobTitle `
+        -UsageLocation $UsageLocation `
+        -AccountEnabled $AccountEnabled `
+        -PasswordProfile @{Password = $SecurePassword}
+
+}
+
+# Connection
+Connect-MSG 
+
+# Get UserProps of Camunda Form
+$UserProps = Get-CamundaVars
+
+# Creation New User
+Create-NewUser -UserProps $UserProps
+
+
