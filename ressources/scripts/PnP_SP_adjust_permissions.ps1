@@ -8,4 +8,3 @@
 $Tenant = "iseschool2013.onmicrosoft.com"
 $ClientID = ""
 $Thumbprint = ""
-

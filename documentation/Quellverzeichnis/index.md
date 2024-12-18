@@ -37,7 +37,8 @@ Bild mit KI generiert (<a href="https://copilot.cloud.microsoft/" target="_blank
 #### Measure Phase
 [Search results for Measure process - Flaticon](https://www.flaticon.com/free-icon/lean_9464400?term=measure+process&related_id=9464400)
 
-
+#### Analyze Phase
+[Search results for Evaluation and analysis - Flaticon](https://www.flaticon.com/free-icon/analysis_18517653?term=evaluation+and+analysis&page=1&position=55&origin=search&related_id=18517653)
 
 ### Sprints
 

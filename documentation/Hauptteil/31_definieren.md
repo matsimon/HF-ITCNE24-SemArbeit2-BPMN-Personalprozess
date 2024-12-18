@@ -10,7 +10,7 @@ Die Define-Phase ist der erste Schritt in einem Six Sigma Projekt. In dieser Pha
 
 ![Define](../../ressources/images/define.png)
 
-[Quelle](../Quellverzeichnis/index.md)
+[Quelle](../Quellverzeichnis/index.md#define-phase)
 
 ## Zielvorstellung
 Am Schluss der Semesterarbeit soll der Prozess so verfolgbar sein, dass die Zuständigen jederzeit den aktuellen Status des Auftrags abgefragt werden kann. So kann die Geschäftsleitung (GL) im Ernstfall nachhacken oder nochmals eine Erinnerung an die zuständige Person zusenden. 
