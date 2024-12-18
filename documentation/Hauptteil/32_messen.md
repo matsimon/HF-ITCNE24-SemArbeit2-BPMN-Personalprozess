@@ -9,6 +9,7 @@ nav_order: 5
 Die Measure-Phase ist der zweite Schritt in einem Six Sigma Projekt. Hier werden aktuelle Prozesse gemessen, um eine Basislinie zu erstellen. Dies umfasst die Sammlung und Analyse von Daten, um die aktuelle Leistung zu verstehen und Verbesserungspotenziale zu identifizieren. Ziel ist es, eine klare Darstellung des aktuellen Zustands zu erhalten.
 
 ![Measure](../../ressources/images/measure.png)
+
 [Quelle](../Quellverzeichnis/index.md#measure-phase)
 
 
